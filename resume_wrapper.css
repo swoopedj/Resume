@@ -1,0 +1,26 @@
+body {background-color: #CCFFFF; 
+		color: ##003366
+}
+h1 {background-color: #FFFFFF;
+		color: ##003366
+}
+h2 {background-color: #0099CC;
+		color: #003366
+}
+#wrapper {width: 80%;
+			margin: auto;
+			min-width: 850px;
+			background color: #FFFFFF;
+			}
+#leftcolumn {float: left;
+				width: 150px;}
+
+#rightcolumn {margin-left: 155px;
+				background-color: #3399CC;}
+header{ background-color: #FFFFFF;
+			color: ##003366;
+			font-size: 100%;
+			padding: 10px 10px 10px 155px;
+}
+.content {padding: 20px 20px 0 20px;
+}
